@@ -6,7 +6,7 @@
 
 - ### Sobre mim
 
-Estudante da Unicesumar. Sou apaixonado por música, livros, jogos e, principalmente, computadores. Isso me levou a estudar Engenharia de Software e a trabalhar na área.
+Estudante da Unicesumar. Sou apaixonado por música, livros, jogos e principalmente, computadores. Isso me levou a estudar Engenharia de Software e a trabalhar na área.
 
 </div>
     
