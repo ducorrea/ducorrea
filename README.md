@@ -4,7 +4,13 @@
 - 🔭 Cursando Engenharia de Software
 - 🌱 Atualmente estudando Python
 
-    <a href="https://www.linkedin.com/in/luizeduardocorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- ### Sobre mim
+
+Estudante da Unicesumar. Sou apaixonado por música, livros, jogos e, principalmente, computadores. Isso me levou a estudar Engenharia de Software e a trabalhar na área.
+
+</div>
+    
+<a href="https://www.linkedin.com/in/luizeduardocorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
@@ -13,11 +19,12 @@
  
 </div>
 
-###
+### 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+</p>
 
 ###
 
